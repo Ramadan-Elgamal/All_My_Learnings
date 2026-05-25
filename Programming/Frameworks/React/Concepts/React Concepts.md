@@ -1,0 +1,5 @@
+-  dreaded [zombie child problem](https://react-redux.js.org/api/hooks#stale-props-and-zombie-children)
+-  [React concurrency](https://github.com/bvaughn/rfcs/blob/useMutableSource/text/0000-use-mutable-source.md)
+-  [context loss](https://github.com/facebook/react/issues/13332) between mixed renderers
+-  wrapper hell
+- Diffing
