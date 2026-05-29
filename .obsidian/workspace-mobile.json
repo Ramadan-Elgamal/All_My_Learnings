@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "fa449942bd12de30",
+    "type": "split",
+    "children": [
+      {
+        "id": "69b2b1061a0e58e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c3761f175c9f187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/HomePage/Prd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prd"
+            }
+          },
+          {
+            "id": "25ee1c6210054aab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/HTML Fundamentls/Table of Content.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Table of Content"
+            }
+          },
+          {
+            "id": "f99e714b6d499cfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/HomePage/Prd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prd"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09a2c58738e5c30a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4b5965aa845002f6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "40d50352101561cf",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "a52c7004ea16a6e7",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c3652ebdf908d2a1",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "9b5a87765baed308",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5cad47e95016b2b9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a0754b112e39a0c6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Projects/HomePage/Prd.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "ee5459e8426dd351",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Projects/HomePage/Prd.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "6c1c752c2eca2dcf",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Projects/HomePage/Prd.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f99e714b6d499cfe",
+  "lastOpenFiles": [
+    "N8N/Roadmap.md",
+    "N8N/Core Nodes/manual-trigger.md",
+    "N8N/Flow Nodes",
+    "N8N/Flow Nodes/execute-workflow.md",
+    "N8N/Flow Nodes/stop-and-error.md",
+    "N8N/Flow Nodes/wait.md",
+    "N8N/Flow Nodes/loop-over-items.md",
+    "N8N/Flow Nodes/filter.md",
+    "N8N/Flow Nodes/switch.md",
+    "N8N/Flow Nodes/if.md",
+    "N8N/Data-Transformation Nodes/remove-duplicates.md",
+    "N8N/Data-Transformation Nodes",
+    "N8N/Data-Transformation Nodes/limit.md",
+    "N8N/Data-Transformation Nodes/sort.md",
+    "N8N/Data-Transformation Nodes/split-out.md",
+    "N8N/Data-Transformation Nodes/aggregate.md",
+    "N8N/Data-Transformation Nodes/merge.md",
+    "N8N/Data-Transformation Nodes/edit-fields.md",
+    "N8N/Data-Transformation Nodes/set.md",
+    "N8N/Core Nodes/error-trigger.md",
+    "N8N/Core Nodes",
+    "N8N/Core Nodes/form-trigger.md",
+    "N8N/Core Nodes/webhook.md",
+    "N8N/Core Nodes/schedule-trigger.md",
+    "workflow-basics.md",
+    "Courses/HTML Fundamentls/Table of Content.md",
+    "N8N",
+    "Projects/HomePage/Prd.md",
+    "Courses/HTML Fundamentls",
+    "Courses"
+  ]
+}
