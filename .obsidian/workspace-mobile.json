@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/N8N/Docs Playlist/_Videos Table.md",
+                "file": "Courses/N8N/Projects Playlist/New GitHub Issue to Slack Notification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Videos Table"
+              "title": "New GitHub Issue to Slack Notification"
             }
           }
         ],
@@ -197,10 +197,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "f99e714b6d499cfe",
+  "active": "4b5965aa845002f6",
   "lastOpenFiles": [
     "Courses/N8N/Projects Playlist/_Videos Table.md",
-    "Courses/N8N/Projects Playlist/Automated Form to Google Sheets Logger.md",
+    "Courses/N8N/Projects Playlist/New GitHub Issue to Slack Notification.md",
+    "Courses/N8N/Projects Playlist/RSS Feed to Email Digest.md",
+    "Courses/N8N/Projects Playlist/Auto-Backup N8N Workflows to GitHub.md",
+    "Courses/N8N/Projects Playlist/Slack Standup Bot.md",
+    "Courses/N8N/Projects Playlist/Webhook-Powered Contact Form Backend.md",
+    "Courses/N8N/Projects Playlist/Automated Form Logger.md",
+    "Automated Form to Google Sheets Logger.md",
+    "Courses/N8N/Projects Playlist/Email Notification System.md",
+    "Email Notification System.md",
+    "].md",
     "Courses/N8N/Docs Playlist/_Videos Table.md",
     "Courses/N8N/Projects Playlist/Untitled",
     "Projects/HomePage/Prd.md",
@@ -222,15 +231,7 @@
     "N8N/Data-Transformation Nodes/limit.md",
     "N8N/Data-Transformation Nodes/sort.md",
     "N8N/Data-Transformation Nodes/split-out.md",
-    "N8N/Data-Transformation Nodes/aggregate.md",
-    "N8N/Data-Transformation Nodes/merge.md",
-    "N8N/Data-Transformation Nodes/edit-fields.md",
-    "N8N/Data-Transformation Nodes/set.md",
-    "N8N/Core Nodes/error-trigger.md",
     "N8N/Core Nodes",
-    "N8N/Core Nodes/form-trigger.md",
-    "N8N/Core Nodes/webhook.md",
-    "N8N/Core Nodes/schedule-trigger.md",
     "N8N",
     "Courses/HTML Fundamentls",
     "Courses"
