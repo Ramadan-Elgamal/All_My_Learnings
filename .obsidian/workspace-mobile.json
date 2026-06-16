@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c3761f175c9f187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/HomePage/Prd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prd"
-            }
-          },
-          {
-            "id": "25ee1c6210054aab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/HTML Fundamentls/Table of Content.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Table of Content"
-            }
-          },
-          {
             "id": "f99e714b6d499cfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/N8N/Projects Playlist/New GitHub Issue to Slack Notification.md",
+                "file": "Multi-Language AI Content Generator With Quality Gate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New GitHub Issue to Slack Notification"
+              "title": "Multi-Language AI Content Generator With Quality Gate"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Courses/N8N/Docs Playlist/_Videos Table.md",
+            "file": "RAG Document Q&A Bot.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -197,40 +168,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "4b5965aa845002f6",
+  "active": "f99e714b6d499cfe",
   "lastOpenFiles": [
     "Courses/N8N/Projects Playlist/_Videos Table.md",
-    "Courses/N8N/Projects Playlist/New GitHub Issue to Slack Notification.md",
-    "Courses/N8N/Projects Playlist/RSS Feed to Email Digest.md",
-    "Courses/N8N/Projects Playlist/Auto-Backup N8N Workflows to GitHub.md",
-    "Courses/N8N/Projects Playlist/Slack Standup Bot.md",
-    "Courses/N8N/Projects Playlist/Webhook-Powered Contact Form Backend.md",
-    "Courses/N8N/Projects Playlist/Automated Form Logger.md",
-    "Automated Form to Google Sheets Logger.md",
-    "Courses/N8N/Projects Playlist/Email Notification System.md",
-    "Email Notification System.md",
-    "].md",
-    "Courses/N8N/Docs Playlist/_Videos Table.md",
+    "Multi-Language AI Content Generator With Quality Gate.md",
+    "Long-Running Job Tracker With Status Polling.md",
+    "Webhook Signature Verification System.md",
+    "AI Extraction Pipeline With Validation and Fallback.md",
+    "Workflow Execution Monitor and Health Dashboard.md",
+    "API Aggregator — Combining Data From Multiple APIs Into One Response.md",
+    "Event-Driven Notification System With User Preferences.md",
+    "File Processing Pipeline With Validation and Transformation.md",
+    "Scheduled Data Sync Between Two Systems With Conflict Detection.md",
+    "Modular Workflow Architecture — Building a Reusable Sub-Workflow Library.md",
+    "Google Sheets as a Simple Database With CRUD Operations.md",
+    "Notion as a Simple Database With CRUD Operations.md",
+    "Courses/N8N/Projects Playlist/Multi-Tenant Webhook Dispatcher.md",
+    "Courses/N8N/Projects Playlist/Paginated API Data Fetcher.md",
+    "Courses/N8N/Projects Playlist/Data Deduplication Pipeline.md",
+    "Courses/N8N/Projects Playlist/Retry and Dead Letter Queue System.md",
+    "Courses/N8N/Projects Playlist/Dynamic Routing Workflow With a Config Sheet.md",
+    "Courses/N8N/Projects Playlist/Multi-Step Email Drip Campaign Engine.md",
+    "Courses/N8N/Projects Playlist/Webhook Rate Limiter and Queue System.md",
+    "Courses/N8N/Projects Playlist/Full Automation System for a Small Business.md",
+    "Courses/N8N/Projects Playlist/Multi-Agent Research Pipeline.md",
+    "Courses/N8N/Projects Playlist/AI Lead Qualification Agent.md",
+    "Courses/N8N/Projects Playlist/RAG Document Q&A Bot.md",
+    "Courses/N8N/Projects Playlist/AI Chatbot With Memory on Telegram.md",
+    "Courses/N8N/Projects Playlist/Content Calendar Automation.md",
     "Courses/N8N/Projects Playlist/Untitled",
-    "Projects/HomePage/Prd.md",
     "Courses/N8N/Projects Playlist",
     "Courses/N8N/Docs Playlist",
     "Courses/N8N",
-    "N8N/Roadmap.md",
-    "N8N/Core Nodes/manual-trigger.md",
     "N8N/Flow Nodes",
-    "N8N/Flow Nodes/execute-workflow.md",
-    "N8N/Flow Nodes/stop-and-error.md",
-    "N8N/Flow Nodes/wait.md",
-    "N8N/Flow Nodes/loop-over-items.md",
-    "N8N/Flow Nodes/filter.md",
-    "N8N/Flow Nodes/switch.md",
-    "N8N/Flow Nodes/if.md",
-    "N8N/Data-Transformation Nodes/remove-duplicates.md",
     "N8N/Data-Transformation Nodes",
-    "N8N/Data-Transformation Nodes/limit.md",
-    "N8N/Data-Transformation Nodes/sort.md",
-    "N8N/Data-Transformation Nodes/split-out.md",
     "N8N/Core Nodes",
     "N8N",
     "Courses/HTML Fundamentls",
