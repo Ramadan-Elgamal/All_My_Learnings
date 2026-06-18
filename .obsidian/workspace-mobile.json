@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multi-Language AI Content Generator With Quality Gate.md",
+                "file": "Programming/Leetcode CheatSheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multi-Language AI Content Generator With Quality Gate"
+              "title": "Leetcode CheatSheet"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "RAG Document Q&A Bot.md",
+            "file": "Programming/Leetcode CheatSheet.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,19 +170,20 @@
   },
   "active": "f99e714b6d499cfe",
   "lastOpenFiles": [
+    "Courses/N8N/Projects Playlist/Multi-Language AI Content Generator With Quality Gate.md",
+    "Programming/Leetcode CheatSheet.md",
     "Courses/N8N/Projects Playlist/_Videos Table.md",
-    "Multi-Language AI Content Generator With Quality Gate.md",
-    "Long-Running Job Tracker With Status Polling.md",
-    "Webhook Signature Verification System.md",
-    "AI Extraction Pipeline With Validation and Fallback.md",
-    "Workflow Execution Monitor and Health Dashboard.md",
-    "API Aggregator — Combining Data From Multiple APIs Into One Response.md",
-    "Event-Driven Notification System With User Preferences.md",
-    "File Processing Pipeline With Validation and Transformation.md",
-    "Scheduled Data Sync Between Two Systems With Conflict Detection.md",
-    "Modular Workflow Architecture — Building a Reusable Sub-Workflow Library.md",
+    "Courses/N8N/Projects Playlist/Long-Running Job Tracker With Status Polling.md",
+    "Courses/N8N/Projects Playlist/Webhook Signature Verification System.md",
+    "Courses/N8N/Projects Playlist/AI Extraction Pipeline With Validation and Fallback.md",
+    "Courses/N8N/Projects Playlist/Workflow Execution Monitor and Health Dashboard.md",
+    "Courses/N8N/Projects Playlist/API Aggregator — Combining Data From Multiple APIs Into One Response.md",
+    "Courses/N8N/Projects Playlist/Event-Driven Notification System With User Preferences.md",
+    "Courses/N8N/Projects Playlist/File Processing Pipeline With Validation and Transformation.md",
+    "Courses/N8N/Projects Playlist/Scheduled Data Sync Between Two Systems With Conflict Detection.md",
+    "Courses/N8N/Projects Playlist/Modular Workflow Architecture — Building a Reusable Sub-Workflow Library.md",
     "Google Sheets as a Simple Database With CRUD Operations.md",
-    "Notion as a Simple Database With CRUD Operations.md",
+    "Courses/N8N/Projects Playlist/Notion as a Simple Database With CRUD Operations.md",
     "Courses/N8N/Projects Playlist/Multi-Tenant Webhook Dispatcher.md",
     "Courses/N8N/Projects Playlist/Paginated API Data Fetcher.md",
     "Courses/N8N/Projects Playlist/Data Deduplication Pipeline.md",
@@ -195,7 +196,6 @@
     "Courses/N8N/Projects Playlist/AI Lead Qualification Agent.md",
     "Courses/N8N/Projects Playlist/RAG Document Q&A Bot.md",
     "Courses/N8N/Projects Playlist/AI Chatbot With Memory on Telegram.md",
-    "Courses/N8N/Projects Playlist/Content Calendar Automation.md",
     "Courses/N8N/Projects Playlist/Untitled",
     "Courses/N8N/Projects Playlist",
     "Courses/N8N/Docs Playlist",
