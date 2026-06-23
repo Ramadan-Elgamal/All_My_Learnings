@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Leetcode CheatSheet.md",
+                "file": "Programming/Frontend Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetcode CheatSheet"
+              "title": "Frontend Concepts"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Programming/Leetcode CheatSheet.md",
+            "file": "Programming/Backend roadmap.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,9 +170,13 @@
   },
   "active": "f99e714b6d499cfe",
   "lastOpenFiles": [
-    "Courses/N8N/Projects Playlist/Multi-Language AI Content Generator With Quality Gate.md",
-    "Programming/Leetcode CheatSheet.md",
+    "Courses/N8N/Projects Playlist/New GitHub Issue to Slack Notification.md",
+    "Programming/Frontend Concepts.md",
     "Courses/N8N/Projects Playlist/_Videos Table.md",
+    "Courses/N8N/Docs Playlist/_Videos Table.md",
+    "Programming/Backend roadmap.md",
+    "Programming/Leetcode CheatSheet.md",
+    "Courses/N8N/Projects Playlist/Multi-Language AI Content Generator With Quality Gate.md",
     "Courses/N8N/Projects Playlist/Long-Running Job Tracker With Status Polling.md",
     "Courses/N8N/Projects Playlist/Webhook Signature Verification System.md",
     "Courses/N8N/Projects Playlist/AI Extraction Pipeline With Validation and Fallback.md",
@@ -192,10 +196,6 @@
     "Courses/N8N/Projects Playlist/Multi-Step Email Drip Campaign Engine.md",
     "Courses/N8N/Projects Playlist/Webhook Rate Limiter and Queue System.md",
     "Courses/N8N/Projects Playlist/Full Automation System for a Small Business.md",
-    "Courses/N8N/Projects Playlist/Multi-Agent Research Pipeline.md",
-    "Courses/N8N/Projects Playlist/AI Lead Qualification Agent.md",
-    "Courses/N8N/Projects Playlist/RAG Document Q&A Bot.md",
-    "Courses/N8N/Projects Playlist/AI Chatbot With Memory on Telegram.md",
     "Courses/N8N/Projects Playlist/Untitled",
     "Courses/N8N/Projects Playlist",
     "Courses/N8N/Docs Playlist",

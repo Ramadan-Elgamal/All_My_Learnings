@@ -1,0 +1,26 @@
+- Streaming SSR
+- Hydration /  Progressive & Partial Hydration
+- Resumability
+- Qwik
+- Server state & Cache Invalidation
+- Optimistic ui updates
+- Web Performance at scale
+- Core web vitals
+- WASM
+- client side vuln for observility
+- ci/cd features flags & pipelines
+- islands architecture
+- Concurrent Rerendering
+- Time Slicing
+- Reconcilliation Algorithm
+- Fiber Architecture
+- Virtual Dom diffing complexity
+- Structural sharing
+- Immutable data patterns
+- Referential equality
+- Memoization pitfalls
+- stale closure problem
+- event loop ( macro vs microtasks)
+- Task starvation
+- layout thrashing
+- critical rendring path
