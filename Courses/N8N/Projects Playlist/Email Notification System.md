@@ -63,15 +63,14 @@ The client stores student information inside Google Sheets.
 
 Example columns:
 
-|Column|
-|---|
-|Student Name|
-|Email|
-|Course Name|
-|Course Date|
-|Reminder Sent|
-
-|
+| Column        |
+| ------------- |
+| Student Name  |
+| Email         |
+| Course Name   |
+| Course Date   |
+| Reminder Sent |
+|               |
 
 ---
 

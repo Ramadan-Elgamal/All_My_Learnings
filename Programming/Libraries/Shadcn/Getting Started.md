@@ -94,6 +94,7 @@ npx shadcn@latest add button
 ## If you using JS instead of TS
 replace step 3,4,5 with the following steps
 ### 1 - Add `jsconfig.json` file
+
 ```json
 {
 
