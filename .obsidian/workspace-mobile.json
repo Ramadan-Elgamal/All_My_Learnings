@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Programming/Frameworks/Telegraf/01_core_concepts/Default Event Names.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Default Event Names"
+            }
+          },
+          {
+            "id": "1f3944ff5238e7a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Programming/Frontend Concepts.md",
                 "mode": "source",
                 "source": false
@@ -20,8 +34,23 @@
               "icon": "lucide-file",
               "title": "Frontend Concepts"
             }
+          },
+          {
+            "id": "ca4fed1a2af73fe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/ICM/Features.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Features"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +141,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Programming/Backend roadmap.md",
+            "file": "Programming/Frameworks/NextJs/2- Routing Edge Cases/2.3 Not Found Pages.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,43 +197,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "f99e714b6d499cfe",
+  "active": "ca4fed1a2af73fe6",
   "lastOpenFiles": [
-    "Courses/N8N/Projects Playlist/New GitHub Issue to Slack Notification.md",
     "Programming/Frontend Concepts.md",
-    "Courses/N8N/Projects Playlist/_Videos Table.md",
-    "Courses/N8N/Docs Playlist/_Videos Table.md",
+    "Projects/ICM/User Stories.md",
+    "Projects/ICM/Features.md",
+    "Projects/ICM/Auth system.md",
+    "Projects/ICM",
+    "Programming/Frameworks/NextJs/1- Core Routing Concepts/1.1 Defining Routes.md",
+    "Programming/Frameworks/NextJs/2- Routing Edge Cases/2.3 Not Found Pages.md",
+    "Programming/Frameworks/NextJs/NextJs_MOC.md",
+    "Programming/Frameworks/NextJs/2- Routing Edge Cases/2.2 Error Handling (Next.js).md",
+    "Programming/Frameworks/NextJs/2- Routing Edge Cases/2.1 Loading UI and Suspense.md",
+    "Programming/Frameworks/NextJs/0- Foundations/0.2 App Router Project Structure.md",
+    "Programming/Frameworks/NextJs/2- Routing Edge Cases",
+    "Programming/Frameworks/NextJs/0- Foundations/0.1 Next.js Installation.md",
+    "Programming/Frameworks/NextJs/0- Foundations/0.0 What is Next.js.md",
+    "Programming/Frameworks/NextJs/1- Core Routing Concepts/1.7 Catch-all Segments.md",
+    "Programming/Frameworks/NextJs/1- Core Routing Concepts/1.6 Dynamic Routes.md",
+    "Programming/Frameworks/NextJs/1- Core Routing Concepts/1.5 Route Groups.md",
+    "Programming/Frameworks/NextJs/1- Core Routing Concepts/1.4 Linking and Navigating.md",
+    "Programming/Frameworks/NextJs/1- Core Routing Concepts/1.3 Templates.md",
+    "Programming/Frameworks/NextJs/1- Core Routing Concepts/1.2 Pages and Layouts.md",
+    "Programming/Frameworks/Telegraf/Telegraf.js MOC.md",
+    "AutoBus Complete.md",
     "Programming/Backend roadmap.md",
-    "Programming/Leetcode CheatSheet.md",
-    "Courses/N8N/Projects Playlist/Multi-Language AI Content Generator With Quality Gate.md",
-    "Courses/N8N/Projects Playlist/Long-Running Job Tracker With Status Polling.md",
-    "Courses/N8N/Projects Playlist/Webhook Signature Verification System.md",
-    "Courses/N8N/Projects Playlist/AI Extraction Pipeline With Validation and Fallback.md",
-    "Courses/N8N/Projects Playlist/Workflow Execution Monitor and Health Dashboard.md",
-    "Courses/N8N/Projects Playlist/API Aggregator — Combining Data From Multiple APIs Into One Response.md",
-    "Courses/N8N/Projects Playlist/Event-Driven Notification System With User Preferences.md",
-    "Courses/N8N/Projects Playlist/File Processing Pipeline With Validation and Transformation.md",
-    "Courses/N8N/Projects Playlist/Scheduled Data Sync Between Two Systems With Conflict Detection.md",
-    "Courses/N8N/Projects Playlist/Modular Workflow Architecture — Building a Reusable Sub-Workflow Library.md",
-    "Google Sheets as a Simple Database With CRUD Operations.md",
-    "Courses/N8N/Projects Playlist/Notion as a Simple Database With CRUD Operations.md",
-    "Courses/N8N/Projects Playlist/Multi-Tenant Webhook Dispatcher.md",
-    "Courses/N8N/Projects Playlist/Paginated API Data Fetcher.md",
-    "Courses/N8N/Projects Playlist/Data Deduplication Pipeline.md",
-    "Courses/N8N/Projects Playlist/Retry and Dead Letter Queue System.md",
-    "Courses/N8N/Projects Playlist/Dynamic Routing Workflow With a Config Sheet.md",
-    "Courses/N8N/Projects Playlist/Multi-Step Email Drip Campaign Engine.md",
-    "Courses/N8N/Projects Playlist/Webhook Rate Limiter and Queue System.md",
-    "Courses/N8N/Projects Playlist/Full Automation System for a Small Business.md",
+    "Markup Object Reference.md",
+    "Programming/Frameworks/Telegraf/01_core_concepts/Default Event Names.md",
+    "Programming/Frameworks/Telegraf/02_buttons_&_actions",
+    "Programming/Frameworks/Telegraf/02_Buttons_and_Actions.md",
+    "Programming/Frameworks/Telegraf/01_core_concepts/CTX Object.md",
+    "Programming/Frameworks/Telegraf/01_core_concepts/Telegraf Instance.md",
+    "Programming/Frameworks/Telegraf/01_core_concepts",
+    "Programming/Frameworks/Telegraf",
     "Courses/N8N/Projects Playlist/Untitled",
     "Courses/N8N/Projects Playlist",
     "Courses/N8N/Docs Playlist",
     "Courses/N8N",
-    "N8N/Flow Nodes",
-    "N8N/Data-Transformation Nodes",
-    "N8N/Core Nodes",
-    "N8N",
-    "Courses/HTML Fundamentls",
-    "Courses"
+    "N8N/Flow Nodes"
   ]
 }

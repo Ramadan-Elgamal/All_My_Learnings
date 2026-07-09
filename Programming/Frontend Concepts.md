@@ -1,3 +1,4 @@
+- Diffing
 - Streaming SSR
 - Hydration /  Progressive & Partial Hydration
 - Resumability
