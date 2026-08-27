@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/ICM/Features.md",
+                "file": "Programming/AWS/Cloud practitioner/Module2 EC2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Features"
+              "title": "Module2 EC2"
             }
           }
         ],
@@ -199,9 +199,13 @@
   },
   "active": "ca4fed1a2af73fe6",
   "lastOpenFiles": [
+    "Programming/AWS/Cloud practitioner/Module1.md",
+    "Programming/AWS/Cloud practitioner/Module2 EC2.md",
+    "Projects/ICM/Features.md",
+    "Programming/AWS/Cloud practitioner",
+    "Programming/AWS",
     "Programming/Frontend Concepts.md",
     "Projects/ICM/User Stories.md",
-    "Projects/ICM/Features.md",
     "Projects/ICM/Auth system.md",
     "Projects/ICM",
     "Programming/Frameworks/NextJs/1- Core Routing Concepts/1.1 Defining Routes.md",
@@ -226,14 +230,10 @@
     "Programming/Frameworks/Telegraf/01_core_concepts/Default Event Names.md",
     "Programming/Frameworks/Telegraf/02_buttons_&_actions",
     "Programming/Frameworks/Telegraf/02_Buttons_and_Actions.md",
-    "Programming/Frameworks/Telegraf/01_core_concepts/CTX Object.md",
-    "Programming/Frameworks/Telegraf/01_core_concepts/Telegraf Instance.md",
     "Programming/Frameworks/Telegraf/01_core_concepts",
     "Programming/Frameworks/Telegraf",
     "Courses/N8N/Projects Playlist/Untitled",
     "Courses/N8N/Projects Playlist",
-    "Courses/N8N/Docs Playlist",
-    "Courses/N8N",
-    "N8N/Flow Nodes"
+    "Courses/N8N/Docs Playlist"
   ]
 }
